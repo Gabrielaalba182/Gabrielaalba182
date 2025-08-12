@@ -2,8 +2,8 @@ Olá! Eu sou uma estudante de tecnologia apaixonada por aprender novas habilidad
 
 Foco nas tecnologias:
 Linguagens: JavaScript, Python, HTML, CSS
-Frameworks e Bibliotecas: React, Node.js, Flask
-Ferramentas: Git, GitHub, Visual Studio Code, Docker
-Banco de Dados: MySQL, MongoDB
-Metodologias: Agile, Scrum
+;Frameworks e Bibliotecas: React, Node.js, Flask
+;Ferramentas: Git, GitHub, Visual Studio Code, Docker
+;Banco de Dados: MySQL, MongoDB
+;Metodologias: Agile, Scrum
 
