@@ -1,9 +1,17 @@
-Olá! Eu sou uma estudante de tecnologia apaixonada por aprender novas habilidades e criar soluções inovadoras. Meu objetivo é me tornar uma desenvolvedora full-stack e contribuir para projetos que façam a diferença.
+Projeto: Sistema de Gerenciamento de Tarefas
+Objetivo: Criar uma aplicação web que permita aos usuários gerenciar suas tarefas diárias de forma fácil e eficiente.
 
-Foco nas tecnologias:
-Linguagens: JavaScript, Python, HTML, CSS
-;Frameworks e Bibliotecas: React, Node.js, Flask
-;Ferramentas: Git, GitHub, Visual Studio Code, Docker
-;Banco de Dados: MySQL, MongoDB
-;Metodologias: Agile, Scrum
+Tecnologias Utilizadas:
+Front-end: React, CSS
+Back-end: Node.js, Express
+Banco de Dados: MongoDB
+
+O que eu aprendi:
+Como criar uma API RESTful para manipular dados.
+Implementar autenticação e gerenciamento de sessões.
+Trabalhar com banco de dados NoSQL.
+Melhorar minhas habilidades de design de interface com React.
+
+Descrição:
+Este projeto foi uma oportunidade de aplicar meus conhecimentos em desenvolvimento full-stack. Aprendi a integrar diferentes tecnologias, lidar com requisições assíncronas e pensar na experiência do usuário. Além disso, pratiquei o uso de Git para controle de versão e colaboração.
 
